@@ -1,0 +1,54 @@
+{
+    "OrderDetails": {
+        "Payment": {
+            "Card": true,
+            "Cash": false
+        },
+        "OrderType": {
+            "Delivery": false,
+            "Pickup": true
+        },
+        "When":  {
+            "AsSoonAsPossible": true,
+            "SpecificTime": false
+        },
+        "FirstName": "Diana",
+        "LastName": "Prokopovich",
+        "PhoneNumber": "+375291151560",
+        "Email": "diana.prokopovich9@gmail.com",
+        "CompanyName": null,
+        "Comments": null,
+        "YourOrder": {
+            "OrderItems": [
+                {
+                    "OrderItemName": "Neopolitana",
+                    "Amount": 1,
+                    "Sum": 24,
+                    "Currency": "$"
+                }
+            ],
+            "Tip": {
+                "0%": true,
+                "10%": false, 
+                "20%": false,
+                "other": false,
+                "OtherSum": null,
+                "Sum": 0,
+                "Currency": "$"
+            },
+            "Total": {
+                "Sum": 24,
+                "Currency": "$"
+            },
+            "Coupon": {
+                "HaveACoupon": false,
+                "CouponNumber": null
+            }
+
+        },
+        "CreateAccount": false,
+        "ReceiveInfoPerEmail": true,
+        "ReceiveInfoPerPhone": false,
+        "ID": "uguhgi1445hg4"
+    }
+}
